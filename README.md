@@ -30,7 +30,7 @@ Para clonar o repositório e rodar o projeto em sua máquina local, siga os pass
 1. Abra o terminal e execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/al00pes/novadrivebank
 ```
 
 2. Acesse o diretório do projeto:
